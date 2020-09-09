@@ -1,4 +1,4 @@
-# leaflet-challenge
+# Earthquake Visualizations
 
 In this repository, you will find the creation of a map used to display earthquakes from the past 24 hours.
 This webpage uses mapbox, leaflet, d3, and information obtained from the USGS Earthquake Hazard's program.
